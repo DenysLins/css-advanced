@@ -65,6 +65,8 @@ To get a local copy up and running, follow these steps:
    npm run server
    ```
 
+6. You can access the webpage at [http://localhost:8080](http://localhost:8080)
+
 ### License
 
 Distributed under the MIT License. See `LICENSE` for more information.
