@@ -87,3 +87,4 @@ Project Link: [https://github.com/DenysLins/css-advanced/tree/master/Natours](ht
 - [Node-sass: Compile .scss files to css](https://github.com/sass/node-sass)
 - [linea.io: Free icons](https://linea.io/)
 - [Unsplash: Beautiful free images & pictures](https://unsplash.com/)
+- [Coverr: Beautiful Free Stock Video Footage](https://www.coverr.co/)
