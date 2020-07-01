@@ -17,7 +17,7 @@
 
 This is my code solution for the course [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
 
-![Natours](/demo.gif)
+![Natours](demo.gif)
 
 #### Built With
 
