@@ -83,8 +83,6 @@ Denys Lins
 - Twitter: [@Denys_Lins](https://twitter.com/Denys_Lins)
 - Linkedin: [Denys Lins](https://www.linkedin.com/in/denyslins/?locale=en_US)
 
-Project Link: [https://github.com/DenysLins/css-advanced/tree/master/Natours](https://github.com/DenysLins/css-advanced/tree/master/Natours)
-
 ### Acknowledgements
 
 - [live-server: Little development server](https://github.com/tapio/live-server)
