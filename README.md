@@ -21,7 +21,7 @@ Currently, it contains only one webpage, but other will be added soon.
 
 Project 1 - Natours
 
-![Natours](demo.gif)
+![Natours](./Natours/demo.gif)
 
 #### Built With
 
