@@ -12,7 +12,7 @@
   }
 
   &__navigation {
-    border-top: 1px solid $color-gray-light-1;
+    border-top: 1px solid $color-grey-light-1;
     padding-top: 2rem;
     display: inline-block;
   }
@@ -33,7 +33,7 @@
     &:link,
     &:visited {
       font-size: $default-font-size;
-      color: $color-gray-light-1;
+      color: $color-grey-light-1;
       text-decoration: none;
       text-transform: uppercase;
       display: inline-block;
@@ -51,8 +51,8 @@
 
   &__copyright {
     font-size: $default-font-size;
-    color: $color-gray-light-1;
-    border-top: 1px solid $color-gray-light-1;
+    color: $color-grey-light-1;
+    border-top: 1px solid $color-grey-light-1;
     padding-top: 2rem;
     width: 80%;
     float: right;
